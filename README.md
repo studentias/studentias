@@ -1,4 +1,4 @@
-![banner](https://github.com/Ias4g/blood-donation/blob/master/img/bg-git.jpg?raw=true)
+![banner](https://github.com/Ias4g/blood-donation/blob/master/img/Novo%20Projeto.jpg?raw=true)
 
 <h1 align="center">Olá! 👋, eu sou Izael Silva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
