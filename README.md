@@ -8,19 +8,15 @@
 <br>
 
 <p align="center">
-🔭 Atualmente sou estudante de **ciência da computação**
+🔭 Atualmente sou estudante de <b>CIÊNCIA DA COMPUTAÇÃO!</b>
 </p>
 
 <p align="center">
-🌱 Atualmente estou aprendendo **HTML, CSS, JS, React e Node.**
+🌱 Atualmente estou aprendendo <b>HTML, CSS, JS, React e Node</b>
 </p>
 
 <p align="center">
-💬 Pergunte me sobre **HTML, CSS3 e JS**
-</p>
-
-<p align="center">
-📫Como chegar até me **izaell.oficial@gmail.com**
+📫Como chegar até me <b>izaell.oficial@gmail.com</b>
 </p>
 
 <br>
