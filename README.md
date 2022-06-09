@@ -8,7 +8,11 @@
 <br>
 
 <p align="center">
-🔭 Atualmente sou estudante de <b>CIÊNCIA DA COMPUTAÇÃO!</b>
+🔭 Sou estudante de <b>CIÊNCIA DA COMPUTAÇÃO!</b>
+</p>
+
+<p align="center">
+    Com previsão de término em Dezembro de 2025.
 </p>
 
 <p align="center">
