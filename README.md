@@ -1,18 +1,28 @@
 ![banner](https://github.com/Ias4g/blood-donation/blob/master/img/Novo%20Projeto.jpg?raw=true)
 
 <h1 align="center">Olá 👋, Eu sou Izael Silva</h1>
-<h3 align="center">Um desenvolvedor, apaixonado por tecnologias.</h3>
+<h3 align="center">Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="ias4g" /> </p>
 
-- 🔭 Atualmente sou estudante de **ciência da computação**
-
-- 🌱 Atualmente estou aprendendo **HTML, CSS, JS, React e Node.**
-
-- 💬 Pergunte me sobre **HTML, CSS3 e JS**
-
-- 📫Como chegar até me **izaell.oficial@gmail.com**
 <br>
+
+<p align="center">
+🔭 Atualmente sou estudante de **ciência da computação**
+</p>
+
+<p align="center">
+🌱 Atualmente estou aprendendo **HTML, CSS, JS, React e Node.**
+</p>
+
+<p align="center">
+💬 Pergunte me sobre **HTML, CSS3 e JS**
+</p>
+
+<p align="center">
+📫Como chegar até me **izaell.oficial@gmail.com**
+</p>
+
 <br>
 <br>
 <h3 align="center">Conecte-se comigo:</h3>
