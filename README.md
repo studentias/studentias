@@ -88,10 +88,14 @@
 </p>
 
 <br>
+<br>
 
 ## Idiomas:
 ### Inglês
 - Nível: ``Intermediário``
+
+<br>
+<br>
 
 ## Ferramentas:
 <p align="left">
