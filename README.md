@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/ciencia-computacao.jpg?raw=true)
 
 <p
-    align="center"
+    align="left"
 >
     <img
         src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat"
