@@ -199,33 +199,7 @@
     </a>
 </p>
 
-- Frameworks javascript ``fff``
-<p>
-    <a
-        href="https://www.w3.org/html/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/html5.png"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.w3.org/html/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/html5.png"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+- Frameworks javascript ``ReactJS``, ``ExpressJS`` e ``NextJS``
 
 <br>
 <br>
