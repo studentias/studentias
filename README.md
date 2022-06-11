@@ -107,7 +107,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-256.png"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/html5.png"
             alt="html5"
             width="40"
             height="40"
@@ -119,8 +119,8 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-256.png"
-            alt="css3"****
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/css3.png"
+            alt="css3"
             width="40"
             height="40"
         />
@@ -131,7 +131,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/javascript.png"
             alt="javascript"
             width="40"
             height="40"
@@ -143,8 +143,8 @@
         rel="noreferrer"
     >
         <img
-            src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c-thumbnail.png"
-            alt="javascript"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/c.png"
+            alt="linguagem c"
             width="40"
             height="40"
         />
@@ -155,8 +155,20 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/git.png"
             alt="git"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a
+        href="https://github.com/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/github.png"
+            alt="github"
             width="40"
             height="40"
         />
@@ -167,20 +179,8 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/mysql-badge-256.png"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/mysql.png"
             alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.oracle.com/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://cdn-icons-png.flaticon.com/512/5969/5969223.png"
-            alt="oracle"
             width="40"
             height="40"
         />
@@ -191,7 +191,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn-icons-png.flaticon.com/512/5968/5968388.png"
+            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/postgres.png"
             alt="postgresql"
             width="40"
             height="40"
