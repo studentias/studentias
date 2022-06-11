@@ -1,4 +1,4 @@
-![banner](https://github.com/Ias4g/blood-donation/blob/master/img/Novo%20Projeto.jpg?raw=true)
+![banner](https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/ciencia-computacao.jpg)
 
 <p
     align="center"
