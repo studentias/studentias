@@ -89,19 +89,12 @@
 
 <br>
 
-## Idiomas e ferramentas:
+## Idiomas:
+### Inglês
+- Nível: ``Intermediário``
+
+## Ferramentas:
 <p align="left">
-    <a href="https://developer.android.com"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-android-material-design-256.png"
-            alt="android"
-            width="40"
-            height="40"
-        />
-    </a>
     <a
         href="https://www.w3schools.com/css/"
         target="_blank"
@@ -115,24 +108,12 @@
         />
     </a>
     <a
-        href="https://expressjs.com"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
         href="https://www.figma.com/"
         target="_blank"
         rel="noreferrer"
     >
         <img
-            src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png"
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968719.png"
             alt="figma"
             width="40"
             height="40"
@@ -144,7 +125,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"
+            src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png"
             alt="git"
             width="40"
             height="40"
@@ -175,18 +156,6 @@
         />
     </a>
     <a
-        href="https://www.linux.org/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
         href="https://www.mysql.com/"
         target="_blank"
         rel="noreferrer"
@@ -199,24 +168,12 @@
         />
     </a>
     <a
-        href="https://nextjs.org/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-            alt="nextjs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
         href="https://www.oracle.com/"
         target="_blank"
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+            src="https://cdn-icons-png.flaticon.com/512/5969/5969223.png"
             alt="oracle"
             width="40"
             height="40"
@@ -228,7 +185,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968388.png"
             alt="postgresql"
             width="40"
             height="40"
