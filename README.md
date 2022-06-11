@@ -21,7 +21,6 @@
 - izaell.universitario@outlook.com
 
 <br>
-<br>
 
 ## Conecte-se comigo:
 <p align="left">
@@ -88,13 +87,11 @@
 </p>
 
 <br>
-<br>
 
 ## Idiomas:
 ### Inglês
 - Nível: ``Intermediário``
 
-<br>
 <br>
 
 ## Conhecimento em:
@@ -199,7 +196,6 @@
 
 - Frameworks Javacript ``ReactJS``, ``ExpressJS`` e ``NextJS``
 
-<br>
 <br>
 
 <p>
