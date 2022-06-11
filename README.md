@@ -27,11 +27,11 @@
 <br>
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://twitter.com/oficialemunah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oficialemunah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/izaelsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaelsilva" height="30" width="40" /></a>
-<a href="https://fb.com/silva.izael.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silva.izael.a" height="30" width="40" /></a>
-<a href="https://instagram.com/silva.i.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silva.i.a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dd" height="30" width="40" /></a>
+<a href="https://twitter.com/oficialemunah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oficialemunah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/izaelsilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaelsilva" height="30" width="40" /></a>
+<a href="https://fb.com/silva.izael.a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silva.izael.a" height="30" width="40" /></a>
+<a href="https://instagram.com/silva.i.a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silva.i.a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRFtQJA1HHrcEMyBG_qVRRw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dd" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">Idiomas e ferramentas:</h3>
