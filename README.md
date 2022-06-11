@@ -31,8 +31,9 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oficialemunah"
-            height="30"
+            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png"
+            alt="oficialemunah"
+            height="40"
             width="40"
         />
     </a>
