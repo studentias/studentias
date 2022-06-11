@@ -1,33 +1,30 @@
 ![banner](https://github.com/Ias4g/blood-donation/blob/master/img/Novo%20Projeto.jpg?raw=true)
 
-<h1 align="center">Olá 👋, Eu sou Izael Silva</h1>
-<h3 align="center">Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.</h3>
+# Olá 👋, Eu sou Izael Silva
+## Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="ias4g" /> </p>
+<p
+    align="left"
+>
+    <img
+        src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat"
+        alt="ias4g"
+    />
+</p>
 
 <br>
 
-<p align="center">
-🔭 Sou estudante de <b>CIÊNCIA DA COMPUTAÇÃO!</b>
-</p>
+### 🔭 Sou estudante de **CIÊNCIA DA COMPUTAÇÃO!**
+- Com previsão de término em Dezembro de 2025.
 
-<p align="center">
-    Com previsão de término em Dezembro de 2025.
-</p>
-
-<p align="center">
-🌱 Atualmente estou aprendendo <b>HTML, CSS, JS, React e Node</b>
-</p>
-
-<p align="center">
-📫Como chegar até me <b>izaell.oficial@gmail.com</b>
-</p>
+### 🌱 Atualmente estou aprendendo ``HTML``, ``CSS``, ``JS``, ``React`` e ``Node``
+### 📫Como chegar até me <b>izaell.oficial@gmail.com</b>
 
 <br>
 <br>
 
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
+## Conecte-se comigo:
+<p align="left">
     <a
         href="https://twitter.com/oficialemunah"
         target="_blank"
@@ -91,8 +88,8 @@
 
 <br>
 
-<h3 align="center">Idiomas e ferramentas:</h3>
-<p align="center">
+## Idiomas e ferramentas:
+<p align="left">
     <a href="https://developer.android.com"
         target="_blank"
         rel="noreferrer"
