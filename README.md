@@ -96,7 +96,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-android-material-design-256.png"
             alt="android"
             width="40"
             height="40"
@@ -108,7 +108,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-256.png"
             alt="css3"
             width="40"
             height="40"
