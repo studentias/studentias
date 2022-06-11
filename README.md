@@ -18,7 +18,9 @@
 - Com previsão de término em Dezembro de 2025.
 
 ### 🌱 Atualmente estou aprendendo ``HTML``, ``CSS``, ``JS``, ``ReactJS`` e ``NodeJS``
-### 📫Como chegar até me <b>izaell.oficial@gmail.com</b>
+### 📫Como chegar até me.
+- izaell.oficial@gmail.com
+- izaell.universitario@outlook.com
 
 <br>
 <br>
@@ -118,7 +120,7 @@
     >
         <img
             src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-256.png"
-            alt="css3"
+            alt="css3"****
             width="40"
             height="40"
         />
