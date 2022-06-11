@@ -132,7 +132,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png"
             alt="figma"
             width="40"
             height="40"
@@ -144,7 +144,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"
             alt="git"
             width="40"
             height="40"
@@ -156,7 +156,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-256.png"
             alt="html5"
             width="40"
             height="40"
@@ -192,7 +192,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/mysql-badge-256.png"
             alt="mysql"
             width="40"
             height="40"
