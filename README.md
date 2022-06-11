@@ -17,7 +17,7 @@
 ### 🔭 Sou estudante de **CIÊNCIA DA COMPUTAÇÃO!**
 - Com previsão de término em Dezembro de 2025.
 
-### 🌱 Atualmente estou aprendendo ``HTML``, ``CSS``, ``JS``, ``React`` e ``Node``
+### 🌱 Atualmente estou aprendendo ``HTML``, ``CSS``, ``JS``, ``ReactJS`` e ``NodeJS``
 ### 📫Como chegar até me <b>izaell.oficial@gmail.com</b>
 
 <br>
