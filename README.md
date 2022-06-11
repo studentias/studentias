@@ -27,6 +27,7 @@
     <a
         href="https://twitter.com/oficialemunah"
         target="_blank"
+        title="Twitter"
     >
         <img
             align="center"
@@ -39,6 +40,7 @@
     <a
         href="https://linkedin.com/in/izaelsilva"
         target="_blank"
+        title="Linkedin"
     >
         <img
             align="center"
@@ -51,6 +53,7 @@
     <a
         href="https://fb.com/silva.izael.a"
         target="_blank"
+        title="Facebook"
     >
         <img
             align="center"
@@ -63,6 +66,7 @@
     <a
         href="https://instagram.com/silva.i.a"
         target="_blank"
+        title="Instagram"
     >
         <img
             align="center"
@@ -75,6 +79,7 @@
     <a
         href="https://www.youtube.com/channel/UCRFtQJA1HHrcEMyBG_qVRRw"
         target="_blank"
+        title="Youtube"
     >
         <img
             align="center"
@@ -100,6 +105,7 @@
         href="https://www.w3.org/html/"
         target="_blank"
         rel="noreferrer"
+        title="HTML5"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/html5.png"
@@ -112,6 +118,7 @@
         href="https://www.w3schools.com/css/"
         target="_blank"
         rel="noreferrer"
+        title="CSS3"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/css3.png"
@@ -124,6 +131,7 @@
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
+        title="JavaScript"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/javascript.png"
@@ -136,6 +144,7 @@
         href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"
         target="_blank"
         rel="noreferrer"
+        title="Linguagem C"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/c.png"
@@ -148,6 +157,7 @@
         href="https://git-scm.com/"
         target="_blank"
         rel="noreferrer"
+        title="Git"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/git.png"
@@ -160,6 +170,7 @@
         href="https://github.com/"
         target="_blank"
         rel="noreferrer"
+        title="Github"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/github.png"
@@ -172,6 +183,7 @@
         href="https://www.mysql.com/"
         target="_blank"
         rel="noreferrer"
+        title="MySQL"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/mysql.png"
@@ -184,6 +196,7 @@
         href="https://www.postgresql.org"
         target="_blank"
         rel="noreferrer"
+        title="PostgresSQL"
     >
         <img
             src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/postgres.png"
