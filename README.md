@@ -1,10 +1,7 @@
 ![banner](https://github.com/Ias4g/blood-donation/blob/master/img/Novo%20Projeto.jpg?raw=true)
 
-# Olá 👋, Eu sou Izael Silva
-## Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
-
 <p
-    align="left"
+    align="center"
 >
     <img
         src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat"
@@ -12,7 +9,8 @@
     />
 </p>
 
-<br>
+# Olá 👋, Eu sou Izael Silva
+## Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
 
 ### 🔭 Sou estudante de **CIÊNCIA DA COMPUTAÇÃO!**
 - Com previsão de término em Dezembro de 2025.
@@ -102,7 +100,7 @@
 ## Conhecimento em:
 <p align="left">
     <a
-        href="https://www.w3schools.com/html/"
+        href="https://www.w3.org/html/"
         target="_blank"
         rel="noreferrer"
     >
@@ -199,7 +197,7 @@
     </a>
 </p>
 
-- Frameworks JavaScript ``ReactJS``, ``ExpressJS`` e ``NextJS``
+- Frameworks Javacript ``ReactJS``, ``ExpressJS`` e ``NextJS``
 
 <br>
 <br>
