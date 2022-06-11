@@ -43,9 +43,9 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"
             alt="izaelsilva"
-            height="30"
+            height="40"
             width="40"
         />
     </a>
@@ -55,9 +55,9 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png"
             alt="silva.izael.a"
-            height="30"
+            height="40"
             width="40"
         />
     </a>
@@ -67,9 +67,9 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png"
             alt="silva.i.a"
-            height="30"
+            height="40"
             width="40"
         />
     </a>
@@ -79,9 +79,9 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png"
             alt="dd"
-            height="30"
+            height="40"
             width="40"
         />
     </a>
