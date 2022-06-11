@@ -102,7 +102,7 @@
 ## Conhecimento em:
 <p align="left">
     <a
-        href="https://www.w3.org/html/"
+        href="https://www.w3schools.com/html/"
         target="_blank"
         rel="noreferrer"
     >
