@@ -97,8 +97,20 @@
 <br>
 <br>
 
-## Ferramentas:
+## Conhecimento em:
 <p align="left">
+ <a
+        href="https://www.w3.org/html/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-256.png"
+            alt="html5"
+            width="40"
+            height="40"
+        />
+    </a>
     <a
         href="https://www.w3schools.com/css/"
         target="_blank"
@@ -112,13 +124,25 @@
         />
     </a>
     <a
-        href="https://www.figma.com/"
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
     >
         <img
-            src="https://cdn-icons-png.flaticon.com/512/5968/5968719.png"
-            alt="figma"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a
+        href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c-thumbnail.png"
+            alt="javascript"
             width="40"
             height="40"
         />
@@ -131,30 +155,6 @@
         <img
             src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png"
             alt="git"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.w3.org/html/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-256.png"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
             width="40"
             height="40"
         />
