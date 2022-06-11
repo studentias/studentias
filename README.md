@@ -199,7 +199,7 @@
     </a>
 </p>
 
-- Frameworks javascript ``ReactJS``, ``ExpressJS`` e ``NextJS``
+- Frameworks JavaScript ``ReactJS``, ``ExpressJS`` e ``NextJS``
 
 <br>
 <br>
