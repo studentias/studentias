@@ -95,7 +95,7 @@
 
 ## Idiomas:
 ### Inglês
-- Nível: ``Intermediário``
+- Nível: ``Técnico``
 
 <br>
 
