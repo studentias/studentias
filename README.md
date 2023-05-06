@@ -9,7 +9,7 @@
     />
 </p>
 
-# Olá 👋, Eu sou Izael Silva studentias/studentias
+# Olá 👋, Eu sou Izael Silva
 ## Um desenvolvedor, apaixonado por noticias, blogs e comunidades de tecnologias.
 
 ### 🔭 Sou estudante de **CIÊNCIA DA COMPUTAÇÃO!**
