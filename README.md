@@ -108,7 +108,7 @@
         title="HTML5"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/html5.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/html5.png"
             alt="html5"
             width="40"
             height="40"
@@ -121,7 +121,7 @@
         title="CSS3"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/css3.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/css3.png"
             alt="css3"
             width="40"
             height="40"
@@ -134,7 +134,7 @@
         title="JavaScript"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/javascript.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/javascript.png"
             alt="javascript"
             width="40"
             height="40"
@@ -147,7 +147,7 @@
         title="Linguagem C"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/c.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/c.png"
             alt="linguagem c"
             width="40"
             height="40"
@@ -160,7 +160,7 @@
         title="Git"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/git.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/git.png"
             alt="git"
             width="40"
             height="40"
@@ -173,7 +173,7 @@
         title="Github"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/github.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/github.png"
             alt="github"
             width="40"
             height="40"
@@ -186,7 +186,7 @@
         title="MySQL"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/mysql.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/mysql.png"
             alt="mysql"
             width="40"
             height="40"
@@ -199,7 +199,7 @@
         title="PostgresSQL"
     >
         <img
-            src="https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/postgres.png"
+            src="https://raw.githubusercontent.com/studentias/studentias/main/images/postgres.png"
             alt="postgresql"
             width="40"
             height="40"
