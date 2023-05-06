@@ -4,8 +4,8 @@
     align="left"
 >
     <img
-        src="https://komarev.com/ghpvc/?username=ias4g&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat"
-        alt="ias4g"
+        src="https://komarev.com/ghpvc/?username=studentias&label=Visualizac%C3%B5es%20do%20perfil&color=0e75b6&style=flat"
+        alt="studentias"
     />
 </p>
 
@@ -214,23 +214,23 @@
 <p>
     <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ias4g&show_icons=true&theme=dark&locale=pt-br&layout=compact"
-        alt="ias4g"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=studentias&show_icons=true&theme=dark&locale=pt-br&layout=compact"
+        alt="studentias"
     />
 </p>
 
 <p>
     <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ias4g&show_icons=true&theme=dark&locale=pt-br"
-        alt="ias4g"
+        src="https://github-readme-stats.vercel.app/api?username=studentias&show_icons=true&theme=dark&locale=pt-br"
+        alt="studentias"
     />
 </p>
 
 <p>
     <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ias4g&theme=dark"
-        alt="ias4g"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=studentias&theme=dark"
+        alt="studentias"
     />
 </p>
