@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Ias4g/Ias4g/main/images/ciencia-computacao.jpg?raw=true)
+![banner](https://raw.githubusercontent.com/studentias/studentias/main/images/ciencia-computacao.jpg?raw=true)
 
 <p
     align="left"
